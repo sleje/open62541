@@ -1,0 +1,12 @@
+open62541 (20240912T002738~0.2~6982~gc214e37aa) UNRELEASED; urgency=medium
+
+  * Full changelog is available here:
+    https://github.com/open62541/open62541/blob/master/CHANGELOG
+
+ -- open62541 Team <open62541-core@googlegroups.com>  Thu, 12 Sep 2024 00:27:38 -0000
+
+open62541 (1.4.0) UNRELEASED; urgency=low
+
+  * Initial release of the 1.4.0 version.
+
+ -- open62541 Team <open62541-core@googlegroups.com>  Mon, 13 May 2024 10:51:28 +0100
